@@ -4,6 +4,8 @@
   box-sizing: border-box; /* Ensures consistent box model behavior */
   margin: 2; /* Removes default margins */
   padding: 3; /* Removes default padding */
+  background-image: url("Screenshot 2025-09-19 115925.png"); 
+
 }
 
 /* Base Body Styles */
@@ -12,7 +14,6 @@ body {
   line-height: 2.6; /* Improves readability */
   color: #ffffff; /* Sets a default text color */
 background-image: url("Screenshot 2025-09-19 115925.png"); 
-}
 }
 
 /* Typography Defaults */
